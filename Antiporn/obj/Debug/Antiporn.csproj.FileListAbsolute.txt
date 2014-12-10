@@ -1,0 +1,9 @@
+D:\C#\Antiporn\Antiporn\Antiporn\bin\Debug\Antiporn.exe
+D:\C#\Antiporn\Antiporn\Antiporn\bin\Debug\Antiporn.pdb
+D:\C#\Antiporn\Antiporn\Antiporn\obj\Debug\Antiporn.csprojResolveAssemblyReference.cache
+D:\C#\Antiporn\Antiporn\Antiporn\obj\Debug\Antiporn.Form1.resources
+D:\C#\Antiporn\Antiporn\Antiporn\obj\Debug\Antiporn.Properties.Resources.resources
+D:\C#\Antiporn\Antiporn\Antiporn\obj\Debug\Antiporn.csproj.GenerateResource.Cache
+D:\C#\Antiporn\Antiporn\Antiporn\obj\Debug\Antiporn.exe
+D:\C#\Antiporn\Antiporn\Antiporn\obj\Debug\Antiporn.pdb
+D:\C#\Antiporn\Antiporn\Antiporn\bin\Debug\block.txt
